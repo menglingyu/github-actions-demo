@@ -39,8 +39,8 @@ body {
 }
 
 .card1 {
-  min-width: 60ch;
-  min-height: 60ch;
+  /* min-width: 60ch; */
+  /* min-height: 60ch; */
   width: 45vw;
   height: 45vw;
   max-width: 100ch;
@@ -73,4 +73,5 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  transform: scale(0.5);
 }

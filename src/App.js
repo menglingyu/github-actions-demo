@@ -4,8 +4,12 @@ import { Card } from './components/card1';
 
 function App() {
   return (
-    <Card></Card>
+
     // <div className="App">
+
+    <Card></Card>
+
+    // </div>
     //   <header className="App-header">
     //     <img src={logo} className="App-logo" alt="logo" />
     //     <p>
