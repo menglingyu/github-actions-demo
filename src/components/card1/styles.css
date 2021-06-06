@@ -23,7 +23,7 @@ body {
 
 #root {
   overflow: hidden;
-  background: #f0f0f0;
+  /* background: #f0f0f0; */
 }
 
 .card1,
@@ -73,5 +73,5 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  transform: scale(0.5);
+  transform: scale(0.36);
 }
